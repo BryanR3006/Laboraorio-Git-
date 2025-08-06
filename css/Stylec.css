@@ -59,3 +59,22 @@ header img{
 .gallery img:hover {
     transform: scale(1.1);
 }
+/* Desarollador dos */
+
+
+
+
+/* Desarollador uno */
+.contact {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+}
+.contact h2 {
+    text-align: center;
+}
+.contact-form {
+    max-width: 500px;
+    margin: 0 auto;
+}
